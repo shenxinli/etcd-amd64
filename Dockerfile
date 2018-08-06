@@ -1,2 +1,2 @@
 # etcd-amd64
-from etcd-amd64:3.2.18
+from k8s.gcr.io/etcd-amd64:3.2.18
